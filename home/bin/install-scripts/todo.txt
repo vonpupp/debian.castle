@@ -1,0 +1,4 @@
+trackpad x230
+lock awesome
+awesome key mappings
+console key mappings
