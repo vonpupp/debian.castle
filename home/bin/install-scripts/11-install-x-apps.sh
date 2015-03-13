@@ -3,7 +3,6 @@
 sudo aptitude -y install --without-recommends \
     compton \
     feh \
-    wicd-gtk \
     iceweasel \
     kbdd \
     keepassx \
@@ -16,6 +15,8 @@ sudo aptitude -y install --without-recommends \
     shotwell \
     udisks-glue \
     vlc \
+    wicd-gtk \
+    wmctrl \
     xbacklight \
     xpdf \
     zathura \
