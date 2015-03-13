@@ -16,6 +16,7 @@ sudo aptitude -y install --without-recommends \
     shotwell \
     udisks-glue \
     vlc \
+    xbacklight \
     xpdf \
     zathura \
     zathura-pdf-poppler \
